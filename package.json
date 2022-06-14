@@ -1,0 +1,11 @@
+{
+    "name": "2022-06-14-nav-main-footer-scss",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "sass -w scss/style.scss css/style.css"
+    },
+    "author": "",
+    "license": "ISC"
+}
